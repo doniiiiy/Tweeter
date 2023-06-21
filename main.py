@@ -2,7 +2,7 @@ import logging
 import asyncio
 from aiogram import Bot, Dispatcher, executor, types
 
-API_TOKEN = '6262014286:AAEKyy7mxDJkbslLdLiDrYP8WCwdsWUxfe8'
+API_TOKEN = '000 topomi o'l'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
